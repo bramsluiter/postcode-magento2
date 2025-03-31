@@ -1,6 +1,6 @@
 {
-  "name": "tig/postcode-magento2",
-  "description": "TIG Magento 2 Postcode extension",
+  "name": "bram/postcode2",
+  "description": "Speed up the checkout process in your Magento 2 webshop, increase your conversion and have less returns by using this zipcode extension. https://postcodeservice.com",
   "require": {
     "php": "~8.1|~8.2",
     "magento/module-checkout": ">=100.2.6,<=100.2.11|~100.3|~100.4",
@@ -27,7 +27,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "TIG\\Postcode\\": ""
+      "Bram\\Postcode2\\": ""
     }
   },
   "require-dev": {

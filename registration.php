@@ -31,6 +31,6 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'TIG_Postcode',
+    'Bram_Postcode2',
     __DIR__
 );
